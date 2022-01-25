@@ -1,0 +1,59 @@
+
+.col-md-4, .col-md-7{
+    border: 2px solid black;
+    border-radius: 15px;
+    height: 100%;
+    background-color: white;
+    font-size: 15px;
+    font-weight:600;
+    line-height: 1.2;
+}
+
+body{
+    background: rgba(128, 128, 128, 0.74);
+}
+#voteheadingblock{
+    background-color: rgba(176, 235, 235, 0.795);
+}
+#voteheading{
+    font-size: 50px;
+    font-weight: 900;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.profile{
+    font-size: large;
+    margin-left: 5px;
+}
+img{
+    width: 8rem;
+    height: 8rem;
+    margin-left: 10rem;
+    margin-top: 1rem;
+    border-radius: 30%;
+}
+
+
+b{
+    padding-left: 3rem;
+    font-size: 20px;
+    color: rgb(17, 2, 2);
+}
+
+.col-md-7{
+    background-color: white;
+
+}
+
+#logoutbutton{
+
+     font-size: 20px;
+     margin-right: 4px;
+     /* float: right; */
+}
+
+#groupimg{
+    float: right;
+}
+
